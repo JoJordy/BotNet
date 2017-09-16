@@ -1,0 +1,9 @@
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\ConsoleApp1\bin\Debug\Networking.exe.config
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\ConsoleApp1\bin\Debug\Networking.exe
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\ConsoleApp1\bin\Debug\Networking.pdb
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\ConsoleApp1\obj\Debug\Networking.exe
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\ConsoleApp1\obj\Debug\Networking.pdb
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\ConsoleApp1\obj\Debug\AutoLock.csprojResolveAssemblyReference.cache
+D:\Media\Documents\Visual Studio 2017\Projectz\Cheats\BTC\AutoLock - Copy\ConsoleApp1\bin\Debug\Networking.exe.config
+D:\Media\Documents\Visual Studio 2017\Projectz\Cheats\BTC\AutoLock - Copy\ConsoleApp1\obj\Debug\Networking.exe
+D:\Media\Documents\Visual Studio 2017\Projectz\Cheats\BTC\AutoLock - Copy\ConsoleApp1\obj\Debug\Networking.pdb

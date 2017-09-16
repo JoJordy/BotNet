@@ -1,0 +1,5 @@
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\Updater\bin\Debug\Updater.exe.config
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\Updater\bin\Debug\Updater.exe
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\Updater\bin\Debug\Updater.pdb
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\Updater\obj\Debug\Updater.exe
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\AutoLock\Updater\obj\Debug\Updater.pdb

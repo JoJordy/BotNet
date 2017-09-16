@@ -1,0 +1,9 @@
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\ConsoleApplication12\ConsoleApp1\bin\Debug\Updater.exe.config
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\ConsoleApplication12\ConsoleApp1\bin\Debug\Updater.exe
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\ConsoleApplication12\ConsoleApp1\bin\Debug\Updater.pdb
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\ConsoleApplication12\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\ConsoleApplication12\ConsoleApp1\obj\Debug\Updater.exe
+D:\Media\Documents\Visual Studio 2017\Projects\Cheats\BTC\ConsoleApplication12\ConsoleApp1\obj\Debug\Updater.pdb
+D:\Media\Documents\Visual Studio 2017\Projectz\Cheats\BTC\AutoLock - Copy\ConsoleApp1\bin\Debug\Updater.exe.config
+D:\Media\Documents\Visual Studio 2017\Projectz\Cheats\BTC\AutoLock - Copy\ConsoleApp1\obj\Debug\Updater.exe
+D:\Media\Documents\Visual Studio 2017\Projectz\Cheats\BTC\AutoLock - Copy\ConsoleApp1\obj\Debug\Updater.pdb
